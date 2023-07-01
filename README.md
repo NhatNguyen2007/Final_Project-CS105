@@ -32,6 +32,6 @@
 ## III. Giảng viên hướng dẫn
 - Cáp Phạm Đình Thăng
 ---
-## III. Danh sách thành viên nhóm
+## IV. Danh sách thành viên
 - 20521708 - Nguyễn Minh Nhật
 - 20521621 - Vũ Văn Minh
