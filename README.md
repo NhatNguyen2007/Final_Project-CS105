@@ -30,6 +30,9 @@
 - [Video](
 https://drive.google.com/drive/folders/1Ocw1j3gNxCf8SHJUG0h_K-0rueHstoIr?usp=sharing)
 ---
+## III. Giảng viên hướng dẫn
+- Cáp Phạm Đình Thăng
+
 ## III. Danh sách thành viên nhóm
 - 20521708 - Nguyễn Minh Nhật
 - 20521621 - Vũ Văn Minh
