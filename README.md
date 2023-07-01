@@ -1,4 +1,4 @@
-<h1> <img src="img/box3.png" width="40"> Đồ Án Cuối Kỳ - Đồ Họa Máy Tính CS105.M21.KHCL</h1>
+<h1> <img src="img/box3.png" width="40"> Đồ Án Cuối Kỳ - Đồ Họa Máy Tính CS105.N21.KHCL</h1>
 
 
 ## I. Các bước để chạy source code
@@ -31,7 +31,5 @@
 https://drive.google.com/drive/folders/1Ocw1j3gNxCf8SHJUG0h_K-0rueHstoIr?usp=sharing)
 ---
 ## III. Danh sách thành viên nhóm
-- 19520271 - Hồ Bảo Quốc Thắng
-- 19521338 - Nguyễn Quốc Đạt
-- 20521363 - Lê Quang Hùng
-- 20522069 - Lê Phước Trung 
+- 20521708 - Nguyễn Minh Nhật
+- 20521621 - Vũ Văn Minh
