@@ -23,7 +23,7 @@
 
 
 ### Cách 2:
-- Vào trực tiếp [Link GitHub](https://shenggkai.github.io/Final-Project-CS105/)
+- Vào trực tiếp [Link GitHub](https://github.com/NhatNguyen2007/Final_Project-CS105.git)
 
 ---
 ## II. Video demo
