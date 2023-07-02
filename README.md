@@ -27,7 +27,7 @@
 
 ---
 ## II. Video demo
-- [Video](https://drive.google.com/drive/folders/1Ocw1j3gNxCf8SHJUG0h_K-0rueHstoIr?usp=sharing)
+- [Video](https://drive.google.com/drive/folders/1bxhUIWcBDCz-P3ZLer7Fh1PzjJA8dhz3?usp=sharing)
 ---
 ## III. Giảng viên hướng dẫn
 - Cáp Phạm Đình Thăng
